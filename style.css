@@ -25,7 +25,7 @@ p{
 .img-1{
     width: 300px;
     height: auto;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .class-3{
     padding: 10px;
@@ -38,10 +38,10 @@ p{
     background-image:linear-gradient(red ,blue)
 }
 .img-2{
-    width: 500px;
-    height: auto;
+    width: 600px;
+    height: 400px;
     padding: 6px;
-    margin-top: 50px;
+    margin-top: 200px;
 }
 .class-4{
     color: brown;
@@ -61,6 +61,26 @@ p{
 .div-2{
     margin-left: 250px;
 }
-
+.h-1{
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+.change-1{
+    font-size: 40px;
+    color: darkred;
+}
+.change-2{
+    width: 40%;
+    padding: 10px;
+    margin-left: 5px;
+}
+.flax{
+    display: flex;
+    
+}
     
  
