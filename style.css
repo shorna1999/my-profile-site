@@ -1,0 +1,66 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+    background-color: bisque;
+    background-image: linear-gradient( bisque, rgb(146, 166, 164) );
+}
+.class-1{
+    color: rgb(88, 199, 45);
+    font-size: 45px;
+}
+.class-2{
+    background-color: rgb(138, 211, 66);
+    padding: 6px;
+    text-align: center;
+    display: inline;
+}
+
+h4{
+    color: rgb(102, 8, 210);
+} 
+
+p{
+    width: 50%;
+}
+
+.img-1{
+    width: 300px;
+    height: auto;
+    margin-top: 50px;
+}
+.class-3{
+    padding: 10px;
+    display: flex
+}
+.a-1{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 5px;
+    background-image:linear-gradient(red ,blue)
+}
+.img-2{
+    width: 500px;
+    height: auto;
+    padding: 6px;
+    margin-top: 50px;
+}
+.class-4{
+    color: brown;
+    font-size: 45px;
+
+}
+.a-2{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red,blue);
+    font-size: 15px;
+    padding: 6px;
+}
+.class-s{
+    display: flex;
+}
+.div-2{
+    margin-left: 250px;
+}
+
+    
+ 
